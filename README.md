@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aayam</h1>
-<h3 align="center">A passionate fullstack developer from Illinois</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayambansal&label=Profile%20views&color=0e75b6&style=flat" alt="aayambansal" /> </p>
 
