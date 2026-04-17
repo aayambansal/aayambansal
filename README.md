@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aayam</h1>
+<h1 align="center">Hello.</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=aayambansal">
@@ -8,13 +8,13 @@
 
 ---
 
-###  About Me
--  Currently building **[InkVell](https://www.inkvell.ai/)**
+###  About me.
+-  Currently building **[Synthetic Sciences](https://www.syntheticsciences.ai/)** 
 -  Reach me at **aayambansal@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me.
 <p align="center">
   <a href="https://twitter.com/aayambansal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" />
