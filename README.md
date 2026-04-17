@@ -11,6 +11,8 @@
 ###  About me.
 -  Currently building **[Synthetic Sciences](https://www.syntheticsciences.ai/)** 
 -  Reach me at **aayambansal@gmail.com**
+-  Published at ICML, ICLR, NeurIPS, CVPR, AAAI, ... Worked at Kelis Lab, MIT CSAIL; Carnegie Mellon; NUS & Oxford.
+-  Z Fellows, Exited aisock (patented in US, Sin, Ind) & spent the money on a $8k spec'd out macbook & chipotle over 2 years. (also funded my break even poker games)
 
 ---
 
