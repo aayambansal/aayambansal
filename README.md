@@ -10,7 +10,7 @@
 
 ###  About me.
 -  Currently building **[Synthetic Sciences](https://syntheticsciences.ai/)** 
--  Reach me at **aayambansal@gmail.com**
+-  Reach me at **aayam[at]syntheticsciences[dot]ai**
 -  I love Chipotle and Starbucks :)
 
 ---
