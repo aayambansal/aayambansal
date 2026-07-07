@@ -9,9 +9,9 @@
 ---
 
 ###  About me.
-Building **[Synthetic Sciences](https://syntheticsciences.ai/)** 
-Reach me at **aayam[at]syntheticsciences[dot]ai**
-I love Chipotle and Starbucks :)
+- Building **[Synthetic Sciences](https://syntheticsciences.ai/)** 
+- Reach me at **aayam[at]syntheticsciences[dot]ai**
+- I love Chipotle and Starbucks :)
 
 ---
 
