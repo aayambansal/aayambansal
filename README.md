@@ -1,21 +1,3 @@
-<h1 align="center">Hey!</h1>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=aayambansal">
-    <img src="https://komarev.com/ghpvc/?username=aayambansal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
-
----
-
-###  About me.
-- Building **[Synthetic Sciences](https://syntheticsciences.ai/)** 
-- Reach me at **aayam[at]syntheticsciences[dot]ai**
-- I love Chipotle and Starbucks :)
-
----
-
-### 🌐 Connect with me.
 <p align="center">
   <a href="https://twitter.com/aayambansal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" />
